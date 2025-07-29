@@ -1,0 +1,11 @@
+---
+title: "Tipo de datos"
+author: "Mirna Vazquez Rosas Landa"
+date: "2025-07-29"
+output: html_document
+---
+
+Vamos a seguir los datos que tenemos de un curso que ya tenemos :)
+
+[Tipo de datos](https://github.com/landalab0/IntroduccionBioinformaticaLinux/blob/main/Unidad4_%22R%22.md#tipos-de-datos)
+
